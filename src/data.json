@@ -1,0 +1,90 @@
+{
+  "boards": [
+    {
+      "id": "board-1",
+      "name": "Development Roadmap",
+      "columns": [
+        {
+          "id": "col-11",
+          "name": "Backlog",
+          "tasks": [
+            { "id": "task-111", "name": "Set up project repo" },
+            { "id": "task-112", "name": "Plan sprint goals" }
+          ]
+        },
+        {
+          "id": "col-12",
+          "name": "In Progress",
+          "tasks": [
+            { "id": "task-113", "name": "Develop user authentication" },
+            { "id": "task-114", "name": "Create UI wireframes" }
+          ]
+        },
+        {
+          "id": "col-13",
+          "name": "Completed",
+          "tasks": [
+            { "id": "task-115", "name": "Setup CI/CD pipeline" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "board-2",
+      "name": "Marketing Team",
+      "columns": [
+        {
+          "id": "col-21",
+          "name": "Ideas",
+          "tasks": [
+            { "id": "task-211", "name": "Brainstorm Q1 campaign" },
+            { "id": "task-212", "name": "Research competitor ads" }
+          ]
+        },
+        {
+          "id": "col-22",
+          "name": "Content Creation",
+          "tasks": [
+            { "id": "task-213", "name": "Write blog about product launch" }
+          ]
+        },
+        {
+          "id": "col-23",
+          "name": "Published",
+          "tasks": [
+            { "id": "task-214", "name": "Post social media teaser" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "board-3",
+      "name": "Personal Tasks",
+      "columns": [
+        {
+          "id": "col-31",
+          "name": "To Do",
+          "tasks": [
+            { "id": "task-311", "name": "Buy groceries" },
+            { "id": "task-312", "name": "Prepare portfolio update" }
+          ]
+        },
+        {
+          "id": "col-32",
+          "name": "Doing",
+          "tasks": [
+            { "id": "task-313", "name": "Learn TypeScript" }
+          ]
+        },
+        {
+          "id": "col-33",
+          "name": "Done",
+          "tasks": [
+            { "id": "task-314", "name": "Clean workspace" },
+            { "id": "task-315", "name": "Fix laptop keyboard" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+@import "@radix-ui/themes/styles.css";
+@import 'tailwindcss/base'; /* Use explicit imports if you prefer */
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+    max-width: 1400px;
+    margin: 0 auto;
+}
