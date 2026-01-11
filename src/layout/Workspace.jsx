@@ -1,5 +1,5 @@
-import React, { useContext, useEffect, useMemo } from "react";
-import Column from "../components/column";
+import React, { useContext, useMemo } from "react";
+import Column from "../components/Column";
 import { DataContext } from "./../dataContext";
 import { arrayMove } from "@dnd-kit/sortable";
 import { produce } from "immer";
