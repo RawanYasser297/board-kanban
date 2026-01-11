@@ -17,8 +17,7 @@ A minimal Kanban-style board built with React + Vite, Tailwind CSS and Radix UI 
 
 ## Live demo
 
-- Live version (Labtobe): https://labtobe.example.com/kanban-board
-  - Replace the URL above with the real Labtobe deployment URL.
+- Live version (Labtobe):[https://board-kanban-sandy.vercel.app/]
 
 ## Browser support / Responsiveness
 
