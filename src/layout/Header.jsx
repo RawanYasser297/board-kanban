@@ -1,5 +1,5 @@
 import { Button } from "@radix-ui/themes";
-import Dropdown from "../components/dropdown";
+import Dropdown from "../components/Dropdown";
 
 const Header = () => {
   return (
